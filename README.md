@@ -1,18 +1,9 @@
 -# 👋 Salut, moi c’est Emile Lenain
 
-🎓 Étudiant en **Bachelor IT – Concepteur Développeur d’Applications** à **La Plateforme (Marseille)**  
+🎓 Étudiant en **Bachelor IT – Concepteur Développeur d’Applications**
 💻 **Développeur Web Junior** passionné par les nouvelles technologies  
 🔍 À la recherche d’une **alternance (1 an) à partir de septembre 2026**  
 📍 Marseille, France  
-
----
-
-## 🚀 À propos de moi
-
-Je suis actuellement en **2ᵉ année de Bachelor IT**, où je me forme au développement web à travers des **projets concrets**, en solo comme en équipe.  
-J’aime concevoir des applications **utiles, propres et bien structurées**, en appliquant les bonnes pratiques (POO, MVC, API, Git).
-
-Je souhaite intégrer une entreprise en alternance afin de **renforcer mes compétences techniques et professionnelles**, notamment en backend et DevOps.
 
 ---
 
@@ -21,9 +12,11 @@ Je souhaite intégrer une entreprise en alternance afin de **renforcer mes comp�
 ### 💻 Langages
 - HTML5 / CSS3  
 - JavaScript  
-- PHP  
-
-### ⚙️ Front-end
+- PHP
+-
+-
+-
+- ### ⚙️ Front-end
 - React.js  
 - Angular  
 - jQuery  
@@ -75,20 +68,10 @@ Je souhaite intégrer une entreprise en alternance afin de **renforcer mes comp�
 
 ---
 
-## 🌍 Langues
-
-- 🇫🇷 Français : natif  
-- 🇪🇸 Espagnol : courant  
-- 🇬🇧 Anglais : notions scolaires  
-
----
-
 ## 📫 Me contacter
 
-- 📧 Email : **lenain.emile@gmail.com**  
-- 💼 LinkedIn : [linkedin.com/in/emile-lenain-30450a343](http://www.linkedin.com/in/emile-lenain-30450a343)  
-- 🌐 Portfolio : [https://lenain-emile.github.io](https://lenain-emile.github.io)
-
+- 📧 Email : **lenain.emile@gmail.com**
+  
 ---
 
 ⭐ *Merci de visiter mon profil GitHub !*
